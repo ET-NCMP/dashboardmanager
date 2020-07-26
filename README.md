@@ -1,0 +1,2 @@
+# dashboardmanager
+Manage dashboards
